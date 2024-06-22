@@ -10,3 +10,4 @@
 
 <div id="count" align=center>
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=guokejie.
+</div>

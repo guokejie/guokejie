@@ -1,9 +1,15 @@
 ### Hi there 👋
 ---
-我是guokejie
+I'm guokejie
 - A master's student researches knowledge graphs at NEU.
-- Languages:c/cpp,java,python
+- Languages：c/cpp,java,python
 
+---
+### Some contacts & links
+- qq 1355464972
+- mail kejieguocs@163.com
+
+  
 <div id="title" align=center>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guokejie&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)

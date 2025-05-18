@@ -8,9 +8,10 @@ I'm guokejie
 ### Some contacts & links
 - qq 1355464972
 - mail kejieguocs@163.com
+---
 ### experience
 - I am currently an intern in backend development at NetEase.
-  
+---
 <div id="title" align=center>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guokejie&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)

@@ -8,7 +8,8 @@ I'm guokejie
 ### Some contacts & links
 - qq 1355464972
 - mail kejieguocs@163.com
-
+### experience
+- I am currently an intern in backend development at NetEase.
   
 <div id="title" align=center>
 

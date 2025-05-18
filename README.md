@@ -2,7 +2,7 @@
 ---
 I'm guokejie
 - A master's student researches knowledge graphs at NEU.
-- Languages：c/cpp,java,python
+- Languages：java,python
 
 ---
 ### Some contacts & links

@@ -10,7 +10,7 @@ I'm guokejie
 - mail kejieguocs@163.com
 ---
 ### experience
-- I am currently an intern in backend development at NetEase.
+- Interned at NetEase backend from March 2025 to July 2025.
 ---
 <div id="title" align=center>
 

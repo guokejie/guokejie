@@ -10,7 +10,7 @@ I'm guokejie
 - mail kejieguocs@163.com
 ---
 ### experience
-- I am currently interning in back-end development at Baidu.
+- Interned at Baidu backend from September 2025 to January 2026.
 - Interned at NetEase backend from March 2025 to July 2025.
 ---
 <div id="title" align=center>

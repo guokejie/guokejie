@@ -3,6 +3,7 @@
 I'm guokejie
 - A master's student researches knowledge graphs at NEU.
 - Languages：java,python
+- Interested in everything.
 
 ---
 ### Some contacts & links
